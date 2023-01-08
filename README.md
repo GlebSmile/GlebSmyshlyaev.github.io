@@ -18,6 +18,7 @@
 
 ## ✔️ Лабораторная работа № 3
 Работа с Cisco Packet Tracer
-1. Ссылка на <a href="">отчёт</a><br>
+1. Ссылка на <a href="https://github.com/GlebSmile/GlebSmyshlyaev.github.io/blob/main/%D0%9B3%20%D0%A1%D0%BC%D1%8B%D1%88%D0%BB%D1%8F%D0%B5%D0%B2%20%D0%93.%20%D0%95..pdf">отчёт</a><br>
 2. <a href="https://github.com/GlebSmile/GlebSmyshlyaev.github.io/blob/main/%D0%9B3.pkt"> Файл Cisco Packet Tracer </a>
+
 ## ✔️ [Экзаменационные билет №9](https://github.com/stankin/inet-2022/wiki/exam09)
